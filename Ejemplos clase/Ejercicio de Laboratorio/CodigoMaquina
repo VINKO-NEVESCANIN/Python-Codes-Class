@@ -1,0 +1,4 @@
+02 23   ; ACC <- [23]   (cargar x en el acumulador)
+04 13   ; ACC <- ACC + 13
+05 44   ; ACC <- ACC + [44]  (sumar y)
+03 17   ; [17] <- ACC   (guardar en z)

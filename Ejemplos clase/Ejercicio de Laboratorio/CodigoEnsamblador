@@ -1,0 +1,4 @@
+mov ax, [x]     ; cargar x en el acumulador
+add ax, 13      ; sumar 13
+add ax, [y]     ; sumar y
+mov [z], ax     ; guardar en z

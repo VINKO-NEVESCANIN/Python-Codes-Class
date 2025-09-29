@@ -1,0 +1,40 @@
+Inicio
+    Escribir "Ingrese la cantidad a retirar (múltiplo de 50):"
+    Leer retiro
+
+    Si (retiro MOD 50 ≠ 0) Entonces
+        Escribir "La cantidad debe ser múltiplo de 50"
+    Sino
+        billetes1000 ← retiro DIV 1000
+        retiro ← retiro MOD 1000
+
+        billetes500 ← retiro DIV 500
+        retiro ← retiro MOD 500
+
+        billetes200 ← retiro DIV 200
+        retiro ← retiro MOD 200
+
+        billetes100 ← retiro DIV 100
+        retiro ← retiro MOD 100
+
+        billetes50 ← retiro DIV 50
+        retiro ← retiro MOD 50
+
+        Escribir "Se deben entregar: "
+        Si billetes1000 > 0 Entonces
+            Escribir billetes1000, " billetes de $1000"
+        FinSi
+        Si billetes500 > 0 Entonces
+            Escribir billetes500, " billetes de $500"
+        FinSi
+        Si billetes200 > 0 Entonces
+            Escribir billetes200, " billetes de $200"
+        FinSi
+        Si billetes100 > 0 Entonces
+            Escribir billetes100, " billetes de $100"
+        FinSi
+        Si billetes50 > 0 Entonces
+            Escribir billetes50, " billetes de $50"
+        FinSi
+    FinSi
+Fin

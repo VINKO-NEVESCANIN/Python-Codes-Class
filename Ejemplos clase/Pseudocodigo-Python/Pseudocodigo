@@ -1,0 +1,11 @@
+Inicio
+    Leer radio
+    Leer altura
+
+    area ← 2 * PI * radio * (radio + altura)
+    volumen_cm3 ← PI * radio^2 * altura
+    volumen_litros ← volumen_cm3 / 1000
+
+    Escribir "Área del cilindro: ", area, " cm2"
+    Escribir "Volumen del cilindro: ", volumen_litros, " litros"
+Fin
