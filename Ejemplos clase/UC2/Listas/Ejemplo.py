@@ -2,7 +2,13 @@
 
 
 
+numeros = [3, 1, 4]
+numeros.sort()
+print(numeros)
 
+
+autos = ('Mustang', 'Supra', 'GT-R')
+print(autos[0])
 
 
 auto = {'marca': 'Toyota', 'modelo': 'Supra', 'año': 2023}
