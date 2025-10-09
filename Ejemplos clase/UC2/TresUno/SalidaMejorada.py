@@ -84,3 +84,5 @@ print(f"{'TOTAL A PAGAR:':<33}${total:.2f}")
 print("===========================================")
 print("🍴 Gracias por su compra. ¡Buen provecho! 🍴")
 print("===========================================")
+
+
