@@ -1,0 +1,5 @@
+DOOM,PC
+Halo,Xbox
+Street Figther,PC
+Fortnite,PC
+Zelda Stitch,Switch

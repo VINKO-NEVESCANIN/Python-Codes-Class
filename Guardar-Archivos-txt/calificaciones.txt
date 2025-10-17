@@ -1,0 +1,3 @@
+Juan,80
+Eduardo,60
+Ramon,50

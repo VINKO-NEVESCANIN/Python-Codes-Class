@@ -1,0 +1,9 @@
+Mario,2
+MARIA,4
+JENNY,8
+Sayma,5
+Mildreth,7
+Juan Fer,4
+Astrid,0
+Alejandro,3
+Camila,10
