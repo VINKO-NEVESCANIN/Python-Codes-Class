@@ -1,0 +1,8 @@
+DOOM,PC
+DOOM 2,PC
+DOOM 3,PC
+DOOM ETERNAL,PC
+DOOM,Switch
+issac,PC
+Celeste,Xbox
+ZELDA,PC
